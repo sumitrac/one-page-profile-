@@ -112,7 +112,7 @@ max-width:100%;
 .contact {
   text-align: center;
   line-height: 25px;
-  bottom-margin: 20px;
+  margin-bottom: 20px;
 }
 h2 {
   background: #87CEFA;
@@ -120,6 +120,6 @@ h2 {
   font-size: 25px;
   text-transform:uppercase;
   font-weight: bold;
-  bottom-margin: 10px;
+  margin-bottom: 10px;
 
 }
