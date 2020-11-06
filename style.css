@@ -120,10 +120,10 @@ h2{
 .contact {
   text-align: center;
   line-height: 25px;
-  buttom-margin: 10px;
+  bottom-margin: 10px;
 }
 h2 {
-  background: brown;
+  background: #87CEFA;
   padding: 10px;
   font-size: 25px;
 }
