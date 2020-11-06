@@ -108,22 +108,18 @@ max-width:100%;
     box-shadow: 10px 10px 5px grey;
 }
 
-h2{
-  text-align: center;
-  color: brown;
-  font-size: 50px;
-  font-weight: bold;
-  text-transform:uppercase;
-  font-family: fantasy;
-}
 
 .contact {
   text-align: center;
   line-height: 25px;
-  bottom-margin: 10px;
+  bottom-margin: 20px;
 }
 h2 {
   background: #87CEFA;
   padding: 10px;
   font-size: 25px;
+  text-transform:uppercase;
+  font-weight: bold;
+  bottom-margin: 10px;
+
 }
